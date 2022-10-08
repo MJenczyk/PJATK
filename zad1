@@ -1,0 +1,14 @@
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   
+    cout << "Marek\n";
+    cout << "28413\n";
+    cout << "PJATK\n";
+
+    return 0;
+}
